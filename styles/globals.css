@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom utilities here */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+} 
